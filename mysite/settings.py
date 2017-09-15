@@ -25,7 +25,7 @@ SECRET_KEY = '1+$(z@gnao5^j=ztmz+z_o#c=_69mwldo88e81oc_plfug#rsi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', '192.168.0.35']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', '192.168.0.35', 'beno.duckdns.org']
 
 # Application definition
 
